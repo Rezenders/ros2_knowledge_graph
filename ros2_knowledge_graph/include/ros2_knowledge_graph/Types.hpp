@@ -15,7 +15,7 @@
 #ifndef ROS2_KNOWLEDGE_GRAPH__TYPES_HPP_
 #define ROS2_KNOWLEDGE_GRAPH__TYPES_HPP_
 
-#include <tf2_geometry_msgs/tf2_geometry_msgs.h>
+#include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 
 #include <assert.h>
 #include <string>
